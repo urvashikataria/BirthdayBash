@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birthday Bash</string>
+    <string name="title_activity_birthday_bash">BirthdayBash</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_your_age">YourAge</string>
+    <string name="title_activity_birthday">Birthday</string>
+    <string name="title_activity_save_my_birthday">SaveMyBirthday</string>
+    <string name="title_activity_save_abirthday">SaveABirthday</string>
+    <string name="title_activity_saved_days">SavedDays</string>
+    <string name="title_activity_saved_names">SavedNames</string>
+
+</resources>
